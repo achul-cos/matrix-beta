@@ -17,10 +17,10 @@
             </div>
             <div class="p-8 gap-4 grid grid-cols-2">
                 <div class="justify-start pl-2 mr-2">
-                    <h3 class="text-3xl font-bold">Halo, <span class="text-lime-600">Achul</span> </h3>
-                    <p class="text-lg text-gray-500">Hari ini sewa komputer apa?</p>
+                    <h3 class="text-5xl font-bold">Halo, <span class="text-lime-600">Achul</span> </h3>
+                    <p class="text-xl mt-4 text-gray-500">Hari ini sewa komputer apa ya?</p>
                 </div>
-                <div class="grid grid-flow-row grid-rows-2 auto-rows-max flex justify-end gap-4 pr-2 ml-2">
+                <div class="grid grid-flow-row grid-rows-2 auto-rows-max justify-end gap-4 pr-2 ml-2">
                     <div class="flex gap-8 justify-end">
                         <div class="w-1/5 h-1/5 min-h-1/3 min-w-1/3 transition-transform transform hover:scale-110"><a href="#"><img src="img/ui/tombol_intel.png" alt="" class="shadow-md rounded-lg"></a></div>
                         <div class="w-1/5 h-1/5 min-h-1/3 min-w-1/3 transition-transform transform hover:scale-110"><a href="#"><img src="img/ui/tombol_amd.png" alt="" class="shadow-md rounded-lg"></a></div>
